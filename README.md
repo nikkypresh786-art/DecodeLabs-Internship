@@ -1,16 +1,23 @@
-# DecodeLabs-Internship
-# DecodeLabs Tasks
+# DecodeLabs Internship Tasks
 
-This repository contains my internship tasks for DecodeLabs.
+This repository contains my completed internship tasks.
 
-## Contents
-- Excel data analysis (raw + cleaned data)
-- SQL queries
+---
 
-## Tools Used
-- Microsoft Excel
-- MySQL
-- GitHub
+## Task 1 – Excel Data Analysis (Week 1)
+- File: Excel workbook (Sheet: Week 1)
+- Work: Basic data exploration and cleaning
 
-## Purpose
-Internship project submission for data analysis training.
+---
+
+## Task 2 – Excel Data Analysis (Week 2)
+- File: Excel workbook (Sheet: Week 2)
+- Work: Further cleaning and analysis
+
+---
+
+## Task 3 – SQL Analysis
+- File: SQL script (`.sql`)
+- Work: Queries for data analysis and insights
+
+
